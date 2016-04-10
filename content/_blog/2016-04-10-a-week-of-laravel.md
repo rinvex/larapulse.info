@@ -175,18 +175,18 @@ ___
 
 ___
 
-# Podcasts
+## Podcasts
 
-## [The Laracasts Snippet](http://laracasts.audio)
+### [The Laracasts Snippet](http://laracasts.audio)
 - [You Have To Be Meticulous](http://laracasts.simplecast.fm/20)
 
-## [Laravel News Podcast](https://laravel-news.com)
+### [Laravel News Podcast](https://laravel-news.com)
 - [EP13 Still good stuff to talk about before Spark!](http://podcast.laravel-news.com/13)
 
 
 ___
 
-# [Laracasts](https://laracasts.com)
+## [Laracasts](https://laracasts.com)
 - [Consider Domain Events](https://laracasts.com/series/whip-monstrous-code-into-shape/episodes/3)
 - [Conclusion](https://laracasts.com/series/laravel-5-from-scratch/episodes/18)
 - [Dedicated Graph Vue Components](https://laracasts.com/series/charting-and-you/episodes/5)
