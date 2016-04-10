@@ -34,7 +34,7 @@
 <div id="mc_embed_signup">
     <form action="//larapulse.us6.list-manage.com/subscribe/post?u=8bf16c17644dba55d6fb5d7a8&amp;id=b8df62dcb8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-            <label for="mce-EMAIL">Subscribe to our mailing list</label>
+            <label for="mce-EMAIL">Newsletter</label>
             <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8bf16c17644dba55d6fb5d7a8_b8df62dcb8" tabindex="-1" value=""></div>
