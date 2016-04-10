@@ -48,7 +48,7 @@ return [
      *
      */
 
-    'postsListView' => 'blog',
+    'postsListView' => 'index',
 
     /**
      * --------------------------------------------------------------------------
@@ -60,7 +60,7 @@ return [
      *
      */
 
-    'siteName' => 'Katana',
+    'siteName' => 'Larapulse',
 
-    'siteDescription' => 'Yet another awesome site.',
+    'siteDescription' => 'The State Of Laravel',
 ];

@@ -19,6 +19,10 @@ h1 {
     line-height: 30px;
 }
 
+hr {
+    color: #f1f1f1
+}
+
 .clearfix:before, .clearfix:after {
     display: table;
     content: " ";
