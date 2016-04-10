@@ -1,9 +1,9 @@
 ---
 view::extends: _includes.blog_post_base
 view::yields: post_body
-pageTitle: A week of Laravel (03-10 April 2016)
-post::title: A week of Laravel (03-10 April 2016)
-post::brief: Updates: laravel/master, laravel/5.2, laravel/5.1, laravel/master, laravel/5.1, laravel/master, laravel/master, laravel/5.2, laravel/5.1, laravel/5.2, laravel/master, laravel/1.0, laravel/master, The Laracasts Snippet, Laravel News Podcast, Podcasts: Laracasts, 
+pageTitle: - A week of Laravel (03-10 April 2016)
+post::title: - A week of Laravel (03-10 April 2016)
+post::brief: Updates: laravel/framework [master], laravel/framework [5.2], laravel/framework [5.1], laravel/laravel [master], laravel/laravel [5.1], laravel/installer [master], laravel/docs [master], laravel/docs [5.2], laravel/docs [5.1], laravel/lumen-framework [5.2], laravel/lumen [master], laravel/cashier-braintree [1.0], laravel/elixir [master], Podcasts: The Laracasts Snippet, Laravel News Podcast, Laracasts, 
 post::date: April 10, 2016
 ---
 
@@ -76,11 +76,11 @@ ___
 
 ## [laravel/laravel](https://github.com/laravel/laravel)
 
-### [master](https://github.com/laravel/framework/compare/master@{2016-04-03}...master@{2016-04-10})
+### [master](https://github.com/laravel/laravel/compare/master@{2016-04-03}...master@{2016-04-10})
 - [ce25be1](https://github.com/laravel/laravel/commit/ce25be19ebfa73b53972518de629632931e77af7): Tweaked config [@GrahamCampbell](https://github.com/GrahamCampbell) 
 
 
-### [5.1](https://github.com/laravel/framework/compare/5.1@{2016-04-03}...5.1@{2016-04-10})
+### [5.1](https://github.com/laravel/laravel/compare/5.1@{2016-04-03}...5.1@{2016-04-10})
 - [a6e0a2d](https://github.com/laravel/laravel/commit/a6e0a2d190e1f219069f80434248658a5a0f79fa): Backport the composer script fixes [@GrahamCampbell](https://github.com/GrahamCampbell) 
 - [2dd40df](https://github.com/laravel/laravel/commit/2dd40dfb40a005094ac50ccf6d1d96a4041807f9): Backport the phpunit fixes [@GrahamCampbell](https://github.com/GrahamCampbell) 
 - [3a2cfbc](https://github.com/laravel/laravel/commit/3a2cfbc2f4f59e4c602781a8a49931c487d65f55): Backport the better faker default [@GrahamCampbell](https://github.com/GrahamCampbell) 
@@ -91,7 +91,7 @@ ___
 
 ## [laravel/installer](https://github.com/laravel/installer)
 
-### [master](https://github.com/laravel/framework/compare/master@{2016-04-03}...master@{2016-04-10})
+### [master](https://github.com/laravel/installer/compare/master@{2016-04-03}...master@{2016-04-10})
 - [bd06802](https://github.com/laravel/installer/commit/bd06802b8121e1a5e95b9028d86a2540ad07f5e1): Install into current dir [Roman Sevastyanov] 
 
 
@@ -99,7 +99,7 @@ ___
 
 ## [laravel/docs](https://github.com/laravel/docs)
 
-### [master](https://github.com/laravel/framework/compare/master@{2016-04-03}...master@{2016-04-10})
+### [master](https://github.com/laravel/docs/compare/master@{2016-04-03}...master@{2016-04-10})
 - [14a060c](https://github.com/laravel/docs/commit/14a060cff8849ee771bc771fd24dc80d7c83c063): remove confusign docs [@taylorotwell](https://github.com/taylorotwell) 
 - [862b223](https://github.com/laravel/docs/commit/862b223dd35765b4c50416b417a7d41b47819f53): Eloquent models are now unguarded by default [@whoan](https://github.com/whoan) 
 - [e53ea89](https://github.com/laravel/docs/commit/e53ea8966462c1aded435524c67bb601c1522f85): fix wording [@taylorotwell](https://github.com/taylorotwell) 
@@ -110,7 +110,7 @@ ___
 - [a831d95](https://github.com/laravel/docs/commit/a831d956f0ee62f57db5fb904fb2cd67acf9cca6): Add SparkPost mail driver [@tomswinkels](https://github.com/tomswinkels) 
 
 
-### [5.2](https://github.com/laravel/framework/compare/5.2@{2016-04-03}...5.2@{2016-04-10})
+### [5.2](https://github.com/laravel/docs/compare/5.2@{2016-04-03}...5.2@{2016-04-10})
 - [45ecf40](https://github.com/laravel/docs/commit/45ecf4011b505c38f55dedb0b55743d514124c5e): Fixed wordingRemoved a duplicate "then" [@elphia](https://github.com/elphia) 
 - [3bd89ad](https://github.com/laravel/docs/commit/3bd89ad268a1387ff47d570865e619e4efabadb4): Fix typo in helpers.md [@DanSmith83](https://github.com/DanSmith83) 
 - [2b112af](https://github.com/laravel/docs/commit/2b112afef31ea390cc2f4f483ccf777d9e4938d8): remind reader where the routes are defined [@mchelen](https://github.com/mchelen) 
@@ -124,7 +124,7 @@ ___
 - [a831d95](https://github.com/laravel/docs/commit/a831d956f0ee62f57db5fb904fb2cd67acf9cca6): Add SparkPost mail driver [@tomswinkels](https://github.com/tomswinkels) 
 
 
-### [5.1](https://github.com/laravel/framework/compare/5.1@{2016-04-03}...5.1@{2016-04-10})
+### [5.1](https://github.com/laravel/docs/compare/5.1@{2016-04-03}...5.1@{2016-04-10})
 - [7348cbb](https://github.com/laravel/docs/commit/7348cbb8248851373aebd2a1afb1b29b09982a11): Update migrations.md [@CausaMortis](https://github.com/CausaMortis) 
 - [087464c](https://github.com/laravel/docs/commit/087464ca1b09a943021126e4319f75d84aad069c): Add dropForeign array notation to 5.1 docs [@CausaMortis](https://github.com/CausaMortis) 
 
@@ -133,7 +133,7 @@ ___
 
 ## [laravel/lumen-framework](https://github.com/laravel/lumen-framework)
 
-### [5.2](https://github.com/laravel/framework/compare/5.2@{2016-04-03}...5.2@{2016-04-10})
+### [5.2](https://github.com/laravel/lumen-framework/compare/5.2@{2016-04-03}...5.2@{2016-04-10})
 - [0a74f14](https://github.com/laravel/lumen-framework/commit/0a74f14366fee0a4939746d712dd9eb570c568c0): Fix typo in database migrations trait [@scrubmx](https://github.com/scrubmx) 
 
 
@@ -141,7 +141,7 @@ ___
 
 ## [laravel/lumen](https://github.com/laravel/lumen)
 
-### [master](https://github.com/laravel/framework/compare/master@{2016-04-03}...master@{2016-04-10})
+### [master](https://github.com/laravel/lumen/compare/master@{2016-04-03}...master@{2016-04-10})
 - [e50f63c](https://github.com/laravel/lumen/commit/e50f63c019f2d4eb1b46f878d9bb514de61d9a3e): Update the phpunit configSame as https://github.co [@scrubmx](https://github.com/scrubmx) 
 
 
@@ -149,7 +149,7 @@ ___
 
 ## [laravel/cashier-braintree](https://github.com/laravel/cashier-braintree)
 
-### [1.0](https://github.com/laravel/framework/compare/1.0@{2016-04-03}...1.0@{2016-04-10})
+### [1.0](https://github.com/laravel/cashier-braintree/compare/1.0@{2016-04-03}...1.0@{2016-04-10})
 - [96b6925](https://github.com/laravel/cashier-braintree/commit/96b69257eeadbba9bd0333fc461565b5d0d767fe): fix finding invoices [@taylorotwell](https://github.com/taylorotwell) 
 
 
@@ -157,7 +157,7 @@ ___
 
 ## [laravel/elixir](https://github.com/laravel/elixir)
 
-### [master](https://github.com/laravel/framework/compare/master@{2016-04-03}...master@{2016-04-10})
+### [master](https://github.com/laravel/elixir/compare/master@{2016-04-03}...master@{2016-04-10})
 - [aac2fd1](https://github.com/laravel/elixir/commit/aac2fd11fe5b7868dfe23a30d54474bfa5c2f33f): Fix notification disabling [@JeffreyWay](https://github.com/JeffreyWay) 
 - [7401c58](https://github.com/laravel/elixir/commit/7401c581d925f2d5bb1560d91f8c580ccad2ea51): v6rc2 [@JeffreyWay](https://github.com/JeffreyWay) 
 - [e19a63d](https://github.com/laravel/elixir/commit/e19a63da2d6b4d59515c8daef04b0b72c1bdbe1d): Add test app folder to npmignore [@JeffreyWay](https://github.com/JeffreyWay) 
