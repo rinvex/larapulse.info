@@ -9,9 +9,11 @@
 
         # About
 
+        Larapulse is a convenient way to summarize Laravel changelog across all projects (Laravel, Lumen, Homestead, ..etc) -a week in a list-, released weekly and with every new released tag.
+
         > Work hard until you no longer have to introduce yourself. ―Anonymous
 
-        This project has never seen the light without the inspiration got from remarkable awesome people who influenced me over the past months:
+        larapulse.info wouldn't be here without the influence of these amazing people:
         - [@taylorotwell](https://twitter.com/taylorotwell)
         - [@jeffrey_way](https://twitter.com/jeffrey_way)
         - [@stauffermatt](https://twitter.com/stauffermatt)
