@@ -23,7 +23,7 @@
         - [@seldaek](https://twitter.com/seldaek)
         - [@fabpot](https://twitter.com/fabpot)
 
-        Proudly made of [`Love`](https://en.wikipedia.org/wiki/Love) on [`Mac`](https://www.apple.com/mac/) with [`Laravel`](https://laravel.com/) in [`Alexandria`](https://en.wikipedia.org/wiki/Alexandria) by [`Omranic`](https://twitter.com/omranic) at [`Rinvex, LLC`](http://rinvex.com) using [`Katana`](https://github.com/themsaid/katana).
+        Proudly made of [`Love`](https://en.wikipedia.org/wiki/Love) on [`Mac`](https://www.apple.com/mac/) with [`Laravel`](https://laravel.com/) in [`Alexandria`](https://en.wikipedia.org/wiki/Alexandria) by [`Omranic`](https://twitter.com/omranic) at [`Rinvex, LLC`](https://rinvex.com) using [`Katana`](https://github.com/themsaid/katana).
 
         > The first and greatest victory is to conquer yourself; to be conquered by yourself is such a shame. -Plato
 
