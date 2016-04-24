@@ -7,7 +7,7 @@
 <hr />
 
 <strong>Laravel:</strong><br />
-- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.29">v5.2.29</a><br />
+- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.30">v5.2.30</a><br />
 - <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.34">v5.1.34</a><br />
 - <strong>5.0:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.0.35">v5.0.35</a><br />
 
