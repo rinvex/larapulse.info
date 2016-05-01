@@ -9,7 +9,7 @@
 
         # About
 
-        Larapulse is a convenient way to summarize Laravel changelog across all projects (Laravel, Lumen, Homestead, ..etc) -a week in a list-, released weekly and with every new released tag.
+        Larapulse is a convenient way to summarize Laravel changelog across all projects (Laravel, Lumen, Homestead, ..etc) released weekly -a week in a list-.
 
         > Work hard until you no longer have to introduce yourself. ―Anonymous
 
