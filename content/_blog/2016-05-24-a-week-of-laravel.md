@@ -3,7 +3,7 @@ view::extends: _includes.blog_post_base
 view::yields: post_body
 pageTitle: - A week of Laravel (15-24 May 2016)
 post::title: A week of Laravel (15-24 May 2016)
-post::brief: "Updates: laravel/framework [master], laravel/framework [5.2], laravel/framework [5.1], laravel/laravel [master], laravel/docs [master], laravel/docs [5.2], laravel/homestead [master], laravel/lumen-framework [5.2], laravel/lumen [master], laravel/lumen-docs [master], laravel/lumen-docs [5.2], laravel/cashier [6.0], laravel/elixir [master], Laracasts"
+post::brief: "Updates: laravel/framework [master], laravel/framework [5.2], laravel/framework [5.1], laravel/laravel [master], laravel/docs [master], laravel/docs [5.2], laravel/homestead [master], laravel/lumen-framework [5.2], laravel/lumen [master], laravel/lumen-docs [master], laravel/lumen-docs [5.2], laravel/cashier [6.0], laravel/elixir [master], Podcasts: The Laracasts Snippet, Laravel News Podcast, Laracasts"
 post::date: May 24, 2016
 ---
 
@@ -170,5 +170,20 @@ ___
 
 ___
 
+## Podcasts
+
+### [The Laracasts Snippet](http://laracasts.audio)
+- [About Frameworks Being Dead...](http://laracasts.simplecast.fm/24)
+
+### [Laravel News Podcast](https://laravel-news.com)
+- [LN 17: Laravel Echo, Valet, and PHP-FIG implosion](http://podcast.laravel-news.com/17)
+
+
+___
+
 ## [Laracasts](https://laracasts.com)
 - [Laravel Test Helpers for Selenium](https://laracasts.com/series/whatcha-working-on/episodes/1)
+- [Too Many Method Parameters is a Sign](https://laracasts.com/series/whip-monstrous-code-into-shape/episodes/12)
+- [Module Bundling With Webpack](https://laracasts.com/series/es6-cliffsnotes/episodes/12)
+- [Consider View Models](https://laracasts.com/series/whip-monstrous-code-into-shape/episodes/11)
+- [Module Bundling With Rollup](https://laracasts.com/series/es6-cliffsnotes/episodes/11)
