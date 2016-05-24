@@ -1,8 +1,8 @@
 ---
 view::extends: _includes.blog_post_base
 view::yields: post_body
-pageTitle: - A week of Laravel (22-24 May 2016)
-post::title: A week of Laravel (22-24 May 2016)
+pageTitle: - A week of Laravel (15-24 May 2016)
+post::title: A week of Laravel (15-24 May 2016)
 post::brief: "Updates: laravel/framework [master], laravel/framework [5.2], laravel/framework [5.1], laravel/laravel [master], laravel/docs [master], laravel/docs [5.2], laravel/homestead [master], laravel/lumen-framework [5.2], laravel/lumen [master], laravel/lumen-docs [master], laravel/lumen-docs [5.2], laravel/cashier [6.0], laravel/elixir [master], Laracasts"
 post::date: May 24, 2016
 ---
