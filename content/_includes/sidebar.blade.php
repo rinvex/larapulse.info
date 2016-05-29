@@ -7,8 +7,8 @@
 <hr />
 
 <strong>Laravel:</strong><br />
-- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.32">v5.2.32</a><br />
-- <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.35">v5.1.35</a><br />
+- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.34">v5.2.34</a><br />
+- <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.36">v5.1.36</a><br />
 - <strong>5.0:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.0.35">v5.0.35</a><br />
 
 <hr />
@@ -21,6 +21,7 @@
 <hr />
 
 <strong>Homestead:</strong> <a href="https://github.com/laravel/homestead/releases/tag/v3.0.2">v3.0.2</a><br />
+<strong>Valet:</strong> <a href="https://github.com/laravel/valet/releases/tag/v1.1.12">v1.1.12</a><br />
 
 <hr />
 
