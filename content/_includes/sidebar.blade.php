@@ -7,21 +7,19 @@
 <hr />
 
 <strong>Laravel:</strong><br />
-- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.34">v5.2.34</a><br />
-- <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.36">v5.1.36</a><br />
-- <strong>5.0:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.0.35">v5.0.35</a><br />
+- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.37">v5.2.37</a><br />
+- <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.38">v5.1.38</a><br />
 
 <hr />
 
 <strong>Lumen:</strong><br />
-- <strong>5.2:</strong> <a href="https://github.com/laravel/lumen-framework/releases/tag/v5.2.6">v5.2.6</a><br />
-- <strong>5.1:</strong> <a href="https://github.com/laravel/lumen-framework/releases/tag/v5.1.6">v5.1.6</a><br />
-- <strong>5.0:</strong> <a href="https://github.com/laravel/lumen-framework/releases/tag/v5.0.10">v5.0.10</a><br />
+- <strong>5.2:</strong> <a href="https://github.com/laravel/lumen-framework/releases/tag/v5.2.7">v5.2.7</a><br />
+- <strong>5.1:</strong> <a href="https://github.com/laravel/lumen-framework/releases/tag/v5.1.7">v5.1.7</a><br />
 
 <hr />
 
 <strong>Homestead:</strong> <a href="https://github.com/laravel/homestead/releases/tag/v3.0.2">v3.0.2</a><br />
-<strong>Valet:</strong> <a href="https://github.com/laravel/valet/releases/tag/v1.1.12">v1.1.12</a><br />
+<strong>Valet:</strong> <a href="https://github.com/laravel/valet/releases/tag/v1.1.13">v1.1.13</a><br />
 
 <hr />
 
