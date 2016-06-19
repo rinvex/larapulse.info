@@ -7,8 +7,8 @@
 <hr />
 
 <strong>Laravel:</strong><br />
-- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.37">v5.2.37</a><br />
-- <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.38">v5.1.38</a><br />
+- <strong>5.2:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.2.39">v5.2.39</a><br />
+- <strong>5.1:</strong> <a href="https://github.com/laravel/framework/releases/tag/v5.1.40">v5.1.40</a><br />
 
 <hr />
 
